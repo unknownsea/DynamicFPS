@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <GameDirectory>F:\SteamLibrary\steamapps\common\REPO</GameDirectory>
+    <GaleProfileName>Default</GaleProfileName>
+    <BepInExDirectory>C:\Users\Seasonal\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Development\BepInEx</BepInExDirectory>
+    <StartArguments>--doorstop-enable true --doorstop-target "$(BepInExDirectory)\core\BepInEx.Preloader.dll" --gale-profile "$(GaleProfileName)"</StartArguments>
+  </PropertyGroup>
+</Project>

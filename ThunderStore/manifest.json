@@ -1,0 +1,7 @@
+{
+    "name": "DynamicFPS",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/unknownsea/DynamicFPS",
+    "description": "A mod that dynamically changes the game's FPS (and audio).",
+    "dependencies": []
+}
